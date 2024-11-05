@@ -32,9 +32,9 @@ Certifique-se de ter o Node.js instalado em sua máquina para executar este proj
 
 1. Clone o repositório:
 
-   ```
-   git clone https://github.com/seu-usuario/Calculadora-de-partidas-Rankeadas.git
-   ```
+```
+git clone https://github.com/seu-usuario/Calculadora-de-partidas-Rankeadas.git
+```
 
 2. Navegue até o diretório do projeto:
 
